@@ -1,0 +1,13 @@
+{
+    "name": "train-schedule-server",
+    "version": "1.0.0",
+    "description": "Backend server for train schedule app",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "axios": "^0.24.0"
+    }
+}
